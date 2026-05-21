@@ -1,6 +1,4 @@
-<img width="735" height="245" alt="Tea  Coffee (2)" src="https://github.com/user-attachments/assets/6f711e14-f8e4-4ea6-acbc-56fc002d5c8b" />
-
-
+<img width="1280" height="320" alt="githubbanner" src="https://github.com/user-attachments/assets/5579e6fe-5f4b-484d-8ab3-3d9a59620fb4" />
 
 Hi there! 👋
 
