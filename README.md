@@ -1,4 +1,4 @@
-<img width="1280" height="320" alt="githubbanner" src="https://github.com/user-attachments/assets/5579e6fe-5f4b-484d-8ab3-3d9a59620fb4" />
+<img width="1280" height="320" alt="{code  juice  repeat } (1)" src="https://github.com/user-attachments/assets/9210f64f-13e6-4a14-9d8d-1b3755529a21" />
 
 Hi there! 👋
 
