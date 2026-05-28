@@ -1,4 +1,5 @@
-<img width="1280" height="320" alt="{code  juice  repeat } (1)" src="https://github.com/user-attachments/assets/9210f64f-13e6-4a14-9d8d-1b3755529a21" />
+<img width="1280" height="320" alt="image" src="https://github.com/user-attachments/assets/7db668d6-4ff2-46fd-8e95-dab3531dd56a" />
+
 
 Hi there! 👋
 
